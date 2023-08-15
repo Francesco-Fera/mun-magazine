@@ -24,6 +24,7 @@ const sortedPosts = allPosts.sort(
 <html lang="en">
   <head>
     <BaseHead title={title} description={seoDescription} />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="bg-white text-black font-body leading-normal personality-casual">
@@ -54,5 +55,23 @@ const sortedPosts = allPosts.sort(
     </section>
 
     <Footer />
+
+    <script>
+      declare global {
+        interface Window {
+          netlifyIdentity: any;
+        }
+      }
+
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
