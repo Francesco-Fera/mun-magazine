@@ -1,10 +1,12 @@
 ---
+import Badge from "./Badge.astro";
 ---
 
 <nav>
   <div
     class="max-w-5xl mx-auto px-3 py-3 flex items-center justify-between h-16"
   >
+  <a href="/">
     <svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="40.000000pt" height="40.000000pt" viewBox="0 0 8718.000000 8719.000000" preserveAspectRatio="xMidYMid meet">
 
       <g transform="translate(0.000000,8719.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
@@ -13,7 +15,8 @@
         <path class="mun-logo-svg" d="M22315 31094 c-507 -55 -904 -206 -1290 -492 -81 -61 -1067 -1041 -5128 -5101 -2766 -2764 -5093 -5096 -5171 -5181 -384 -415 -652 -752 -912 -1145 -484 -733 -754 -1415 -856 -2165 -30 -223 -33 -734 -5 -960 73 -583 236 -1108 532 -1705 393 -793 934 -1543 1793 -2485 234 -256 882 -908 1142 -1147 1527 -1409 2750 -2097 4000 -2250 180 -22 636 -24 810 -5 750 86 1459 362 2205 857 398 264 732 528 1175 929 208 188 10149 10123 10274 10268 318 367 514 798 582 1283 21 146 24 467 6 605 -59 448 -223 854 -485 1200 -96 126 -288 323 -412 423 -283 228 -613 392 -956 476 -181 44 -312 61 -509 68 -559 18 -1090 -149 -1545 -486 -81 -60 -1085 -1058 -5250 -5221 -2832 -2831 -5199 -5191 -5260 -5245 -627 -559 -1002 -620 -1554 -255 -345 228 -824 673 -1228 1140 -425 491 -608 832 -629 1173 -22 357 154 723 586 1222 62 72 2361 2380 5110 5130 2806 2808 5026 5037 5064 5085 499 628 667 1431 460 2186 -111 408 -311 756 -609 1063 -379 390 -861 635 -1409 717 -98 15 -451 26 -531 18z"/>
       </g>
     </svg>
-    <a href="/" class="font-bold text-xl hover:text-hot-pink">MUN Magazine</a>
+  </a>
+    <a href="/" class="font-bold text-xl">MUN Magazine</a>
     <a href="/search" class="">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -30,7 +33,12 @@
       </svg>
     </a>
   </div>
-  <div class="w-full border-b-2 border-black squiggle"></div>
+  <div class="w-full border-b-2 border-black"></div>
+  <div class="flex justify-center flex-wrap">
+    <Badge>Categoria 1</Badge>
+    <Badge>Categoria 1</Badge>
+    <Badge>Categoria 1</Badge>
+  </div>
 </nav>
 
 <style>

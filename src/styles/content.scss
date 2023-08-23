@@ -46,10 +46,11 @@
   }
 
   a {
-    @apply font-bold underline text-hot-pink;
+    font-weight: 700;
+    color: #534ea1;
 
     &:hover {
-      @apply text-black;
+      color: #000;
     }
   }
 
