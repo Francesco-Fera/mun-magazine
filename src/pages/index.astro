@@ -4,6 +4,7 @@ import Nav from "../components/Nav.astro";
 import HomeHeader from "../components/HomeHeader.astro";
 import Card from "../components/Card.astro";
 import Footer from "../components/Footer/Footer.astro";
+import Slider from "../components/Slider.astro";
 
 interface MarkdownFrontmatter {
   date: number;
@@ -33,6 +34,21 @@ const sortedPosts = allPosts.sort(
     <main class="py-12 lg:py-20">
       <article class="max-w-6xl mx-auto px-3">
         <HomeHeader title={title} description={description} />
+
+        <div id="default-carousel" class="relative w-full">
+          <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+              <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+                  {
+                      sortedPosts.slice(0, 3).map((post, index) => (
+                          <div class={`hidden duration-700 ease-in-out ${index === 0 ? 'block' : ''}`}>
+                              <img src={post.frontmatter.hero} class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt={post.frontmatter.title}>
+                          </div>
+                      ))
+                  }
+              </div>
+          </div>
+      </div>
+
         <section
           class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8"
           data-test="articles-section"
