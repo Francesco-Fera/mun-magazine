@@ -5,16 +5,21 @@ import grayMatter from "gray-matter";
 
 (async function () {
   // prepare the dirs
-  const srcDir = path.join(process.cwd(), "src");
-  const publicDir = path.join(process.cwd(), "public");
+  const mainDir = path.join(process.cwd(), "../..");
+  const srcDir = path.join(mainDir, "/src");
+  const publicDir = path.join(mainDir, "/public");
+  console.log("MAINDIR: " + mainDir);
+  console.log("SEARCH: " + srcDir);
   const contentDir = path.join(srcDir, "pages", "posts");
   const contentFilePattern = path.join(contentDir, "*.md");
   const indexFile = path.join(publicDir, "search-index.json");
+  console.log("pattern: " + contentFilePattern);
+  console.log("indexFile: " + indexFile);
   const getSlugFromPathname = (pathname) =>
     path.basename(pathname, path.extname(pathname));
 
   const contentFilePaths = await globby([contentFilePattern]);
-
+  console.log("lenght " + contentFilePaths.length);
   if (contentFilePaths.length) {
     const files = contentFilePaths.map(
       async (filePath) => await fs.readFile(filePath, "utf8")
@@ -40,5 +45,6 @@ import grayMatter from "gray-matter";
     console.log(
       `Indexed ${index.length} documents from ${contentDir} to ${indexFile}`
     );
+    console.log("finished");
   }
 })();

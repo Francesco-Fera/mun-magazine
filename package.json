@@ -21,6 +21,7 @@
     "@astrojs/sitemap": "^1.4.0",
     "autoprefixer": "^10.4.14",
     "dayjs": "^1.11.9",
+    "gray-matter": "^4.0.3",
     "lunr": "^2.3.9",
     "sitemap": "^7.1.1"
   }
