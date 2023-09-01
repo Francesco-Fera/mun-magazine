@@ -1,0 +1,24 @@
+---
+export interface Props {
+  posts: any[];
+}
+
+const { posts } = Astro.props;
+---
+
+<div id="default-carousel" class="relative w-full">
+    <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+        <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+            {
+                posts.map((post, index) => (
+                    <div class={`hidden duration-700 ease-in-out ${index === 0 ? 'block' : ''}`}>
+                        <img src={post.frontmatter.hero} class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt={post.frontmatter.title}>
+                    </div>
+                ))
+            }
+        </div>
+    </div>
+</div>
+
+
+

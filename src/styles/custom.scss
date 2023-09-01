@@ -1,9 +1,17 @@
-.blog-tags a {
-  @apply font-bold underline text-hot-pink;
+// .blog-tags a {
+//   @apply font-bold underline text-hot-pink;
 
-  &:hover {
-    @apply text-black;
-  }
+//   &:hover {
+//     @apply text-black;
+//   }
+// }
+
+a {
+  font-weight: bold;
+}
+
+a:hover {
+  color: #534ea1;
 }
 
 #searchBox {
