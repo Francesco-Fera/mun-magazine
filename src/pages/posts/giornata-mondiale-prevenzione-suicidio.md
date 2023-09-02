@@ -1,7 +1,8 @@
 ---
 title: "Giornata Mondiale per la Prevenzione del Suicidio: Sensibilizzazione e Cura della Salute Mentale"
-description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
 pubDate: "2023-08-03"
+slug: "giornata-mondiale-prevenzione-suicidio"
+description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
 hero: "/images/prevenzione-suicidio.png"
 tags: ["astro"]
 layout: "../../layouts/BlogPostLayout.astro"
