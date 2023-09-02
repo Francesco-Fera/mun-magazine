@@ -29,31 +29,31 @@
 //   });
 //   console.log(contentFilePaths);
 
-  // if (contentFilePaths.length) {
-  //   const files = contentFilePaths.map(
-  //     async (filePath) => await fs.readFile(filePath, "utf8")
-  //   );
-  //   const index = [];
-  //   let i = 0;
-  //   for await (let file of files) {
-  //     const {
-  //       data: { title, description, tags },
-  //       content,
-  //     } = grayMatter(file);
-  //     index.push({
-  //       slug: getSlugFromPathname(contentFilePaths[i]),
-  //       category: "blog",
-  //       title,
-  //       description,
-  //       tags,
-  //       body: content,
-  //     });
-  //     i++;
-  //   }
-  //   await fs.writeFile(indexFile, JSON.stringify(index));
-  //   console.log(
-  //     `Indexed ${index.length} documents from ${contentDir} to ${indexFile}`
-  //   );
-  //   console.log("finished");
-  // }
-})();
+// if (contentFilePaths.length) {
+//   const files = contentFilePaths.map(
+//     async (filePath) => await fs.readFile(filePath, "utf8")
+//   );
+//   const index = [];
+//   let i = 0;
+//   for await (let file of files) {
+//     const {
+//       data: { title, description, tags },
+//       content,
+//     } = grayMatter(file);
+//     index.push({
+//       slug: getSlugFromPathname(contentFilePaths[i]),
+//       category: "blog",
+//       title,
+//       description,
+//       tags,
+//       body: content,
+//     });
+//     i++;
+//   }
+//   await fs.writeFile(indexFile, JSON.stringify(index));
+//   console.log(
+//     `Indexed ${index.length} documents from ${contentDir} to ${indexFile}`
+//   );
+//   console.log("finished");
+// }
+// })();
