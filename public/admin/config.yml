@@ -31,4 +31,4 @@ collections:
           allow_add: true,
           allow_delete: true,
         }
-        { label: "Corpo", name: "corpo", widget: "markdown"}
+      - { label: "Corpo", name: "corpo", widget: "markdown" }
