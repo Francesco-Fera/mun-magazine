@@ -20,15 +20,20 @@ collections:
           widget: "hidden",
           default: "../../layouts/BlogPostLayout.astro",
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Hero Image", name: "hero", widget: "image" }
+      - { label: "Titolo", name: "title", widget: "string" }
+      - { label: "Autore", name: "author", widget: "string" }
       - {
-          label: "Tags",
-          name: "tags",
-          widget: "list",
-          allow_add: true,
-          allow_delete: true,
+          label: "Data di Pubblicazione",
+          name: "pubDate",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
         }
-      - { label: "Corpo", name: "corpo", widget: "markdown" }
+      - { label: "Descrizione", name: "description", widget: "string" }
+      - { label: "Immagine Principale", name: "hero", widget: "image" }
+      - {
+          label: "Categorie",
+          name: "tags",
+          widget: "select",
+          options: ["Cultura", "Scienza", "Politica", "Africa"],
+        }
+      - { label: "Corpo", name: "body", widget: "markdown" }
