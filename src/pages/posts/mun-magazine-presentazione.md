@@ -38,7 +38,6 @@ Siamo pronti a metterci in gioco, a raccontare le storie che contano e a creare 
 Non perderti nessuna novità!
 
 - [Instagram](https://www.instagram.com/mun_magazine/)
-- [Facebook](https://www.facebook.com/profile.php?id=61550811327913)
 - [TikTok](https://www.tiktok.com/@munmagazine?_t=8fEHVfm09mz&_r=1)
 - [Youtube](https://www.youtube.com/channel/UCyVWdaqB_Am87teYP1vW3NQ)
 - [Linkedin](https://www.linkedin.com/in/mun-magazine-3148b228a/)
