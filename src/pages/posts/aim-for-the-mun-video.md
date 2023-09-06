@@ -5,7 +5,7 @@ slug: "mun-magazine-presentazione"
 description: "Shoot for the people, aim for the MUN video"
 hero: "/images/mun-logo-hero.png"
 tags: []
-youtube: "fGuNjVVuQM4"
+youtube: "Tlz_5gyfSSY"
 layout: "../../layouts/BlogPostLayoutVideo.astro"
 ---
 
