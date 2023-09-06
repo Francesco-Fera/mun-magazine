@@ -2,7 +2,7 @@
 title: "Per i palestinesi tornare a casa vale l'arresto"
 pubDate: "2023-09-04"
 slug: "per-i-palestinesi-tornare-a-casa-vale-l-arresto"
-description: "MUN Magazine: Esplorando il mondo sotto la luna"
+description: "Per i Palestinesi tornare a casa vale l’arresto: Il 31 agosto Israele arresta  arresta Khaled El Qaisi"
 hero: "/images/khaled-el-qaisi.png"
 tags: []
 layout: "../../layouts/BlogPostLayout.astro"
