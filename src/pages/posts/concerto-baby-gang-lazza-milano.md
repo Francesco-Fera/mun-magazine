@@ -5,8 +5,7 @@ slug: "di-fronte-a-32mila-persone-baby-gang-ha-il-diritto-di-estare"
 description: "Di fronte a 32mila persone Baby Gang ha il diritto di Restare"
 hero: "/images/baby-gang.jpeg"
 tags: []
-youtube: "Tlz_5gyfSSY"
-layout: "../../layouts/BlogPostLayoutVideo.astro"
+layout: "../../layouts/BlogPostLayout.astro"
 ---
 
 **Milano, 8 Settembre**
