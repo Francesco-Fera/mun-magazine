@@ -25,7 +25,6 @@ Questo discorso ha contribuito a perpetuare stereotipi negativi sugli arabi, pre
 Il radicarsi di modelli neo-orientalisti è diventato maggiormente visibile quando George W. Bush ha descritto la "guerra al terrorismo" statunitente come una "crociata" del XXI secolo; dichiarazioni e posizioni seguite anche dall'ex Primo Ministro italiano Silvio Berlusconi:
 _"dovremmo essere consapevoli della superiorità della nostra civiltà"_ (Hooper e Connolly, 2001), e dal Primo Ministro canadese:
 _"il terrorismo islamico è la più grande minaccia per la sicurezza del Canada"_ sono esempi di questa norma accettata (CBC News, 2011).
-Per non dimenticare le dichiarazioni del primo ministro canadese, che ha definito il terrorismo islamico come la più grande minaccia alla sicurezza del Canada.
 
 Affermazioni che riflettono la percezione diffusa che l'islam sia una minaccia allo stile di vita e ai valori occidentali.
 Questa percezione ha influenzato le politiche di sicurezza nazionale, l'approccio agli affari esteri e le politiche sull’ immigrazione.
