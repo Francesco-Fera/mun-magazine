@@ -10,7 +10,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ## Come supportare i cittadini marocchini
 
-Secondo i nuovi dati del Ministero dell'Interno del Marocco, **il bilancio delle vittime del terremoto** che ha colpito il Marocco venerdì notte **è salito a 2.497 persone alle 10 del mattino di oggi**. I nuovi dati mostrano che il numero delle vittime ferite è aumentato a 2.476.
+Secondo i nuovi dati del Ministero dell'Interno del Marocco, **il bilancio delle vittime del terremoto** che ha colpito il Marocco venerdì notte **è salito a 2.497 persone alle 10 del mattino di oggi**.
 
 Le autorità marocchine e i volontari stanno continuando a intensificare gli sforzi per affrontare la crisi derivante dal terremoto, compresi il crollo degli edifici e i danni fisici e psicologici, tuttavia, sono ancora necessari ulteriori sforzi per affrontare la crisi, poiché molte città e paesi non hanno ancora ricevuto alcun aiuto.
 
