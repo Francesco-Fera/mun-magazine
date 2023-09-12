@@ -15,7 +15,7 @@ La tempesta ha provocato piogge stimate tra i 50 e i 250 millimetri di acqua, co
 
 A provocare questo impressionante sversamento di acqua è stato il crollo di due dighe costruite lungo il fiume Wadi.
 
-Derna, una città di circa centomila abitanti, è sommersa da tre metri di acqua. che, spiega Avvenire, “scende dalle vicine montagne fino alla città” dove si sarebbero riversati improvvisamente 33 milioni di metri cubi d’acqua.
+Derna, una città di circa centomila abitanti, è sommersa da tre metri di acqua.
 
 **Si contano finora 2000 vittime, mentre si stima che al momento 6000 siano i dispersi**.
 
