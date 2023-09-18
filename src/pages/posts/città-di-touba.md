@@ -1,6 +1,6 @@
 ---
 title: "Considerata santa dai Muridi, la città di Touba non può che stupire per la poesia con cui è stata costruita. "
-pubDate: "2023-09-16"
+pubDate: "2023-09-17"
 slug: "la-citta-di-touba"
 description: "Considerata santa dai Muridi, la città di Touba non può che stupire per la poesia con cui è stata costruita. Nata a seguito di un’estasi mistica di Cheikh Ahmadou Bamba, è senza dubbio il simbolo più conosciuto della fede in Senegal."
 hero: "/images/citta-di-touba.jpg"
