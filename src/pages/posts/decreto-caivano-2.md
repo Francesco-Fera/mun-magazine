@@ -2,7 +2,7 @@
 title: "Lo stato ci “perde” la faccia"
 pubDate: "2023-09-19"
 slug: "decreto-caivano-lo-stato-ci-perde-la-faccia"
-description: "Lo stato ci “perde” la faccia. Decreto Caivano, ad Ancona il primo avviso orale inviato a un minorenne"
+description: "Lo stato ci “perde” la faccia: Decreto Caivano, ad Ancona il primo avviso orale inviato a un minorenne"
 hero: "/images/decreto-caivano.jpg"
 tags: []
 layout: "../../layouts/BlogPostLayout.astro"
