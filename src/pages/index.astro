@@ -5,6 +5,8 @@ import HomeHeader from "../components/HomeHeader.astro";
 import Card from "../components/Card.astro";
 import Footer from "../components/Footer/Footer.astro";
 import Slider from "../components/Slider.astro";
+import { Image } from "astro:assets";
+import Badge from "../components/Badge.astro";
 
 interface MarkdownFrontmatter {
   date: number;
@@ -20,6 +22,7 @@ const sortedPosts = allPosts.sort(
     new Date(b.frontmatter.pubDate).valueOf() -
     new Date(a.frontmatter.pubDate).valueOf()
 );
+const latestPosts = sortedPosts.slice(1, 12);
 ---
 
 <html lang="en">
@@ -30,17 +33,29 @@ const sortedPosts = allPosts.sort(
 
   <body class="bg-white text-black font-body leading-normal personality-casual">
     <Nav />
-
+    
     <main class="py-12 lg:py-20">
       <article class="max-w-6xl mx-auto px-3">
         <HomeHeader title={title} description={description} />
-
+        <Slider post={sortedPosts[0]} />
+        <div>
+          <Badge>Politica</Badge>
+          <Badge>Cultura</Badge>
+          <Badge>Scienza</Badge>
+          <Badge>Attualità</Badge>
+          <Badge>Altro</Badge>
+          <Badge>Categoria</Badge>
+        </div>
+        
+        <div class="mx-auto max-w-xl text-center content my-5">
+          <h1 class="text-2xl" data-test="header-title">Gli articoli precedenti</h1>
+        </div>
         <section
           class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-8"
           data-test="articles-section"
         >
           {
-            sortedPosts.map((p) => (
+            latestPosts.map((p) => (
               <div class="col-span-1">
                 <Card post={p} />
               </div>
