@@ -15,6 +15,7 @@ Ramy è una vera e propria serie spartiacque, in grado di rappresentare appieno 
 La serie racconta la storia di Ramy Hassan, un giovane di origine egiziana nato e cresciuto nel New Jersey, e del suo rapporto con la propria famiglia e l’Islam, mostrando, spesso e volentieri con un sorriso, cosa voglia dire essere un giovane musulmano negli Usa.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kGvl4s4FBoo?si=Q-AfA2lLQoXYi3UZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 La serie attualmente si compone di tre stagioni e nel corso del tempo ha ricevuto svariati premi e nomination, fra i quali svetta sicuramente la vittoria del Golden Globe per la performance di Ramy Youssef nella prima stagione.
 Potete vederla su MGM+ attraverso Amazon Prime video o Mediaset Infinity.
 
