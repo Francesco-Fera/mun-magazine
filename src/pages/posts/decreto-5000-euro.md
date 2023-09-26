@@ -42,7 +42,6 @@ Pare evidente la volontà del governo Meloni di condannare migliaia di persone a
 
 ### Riferimenti bibliografici
 
-- [Gazzetta Ufficiale](HTTPS://WWW.GAZZETTAUFFICIALE.IT/ELI/GU/2023/09/21/221/SG/PDF)
 - [normativa.it](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25)
 - [asgi.it](https://www.asgi.it/notizie/le-nuove-procedure-accelerate-di-frontiera-quali-prospettive-in-unottica-di-genere/)
 - [Governo](https://www.governo.it/IT/ARTICOLO/COMUNICATO-STAMPA-DEL-CONSIGLIO-DEI-MINISTRI-N-50/23603)
