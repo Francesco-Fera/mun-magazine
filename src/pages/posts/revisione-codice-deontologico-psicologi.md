@@ -1,12 +1,14 @@
 ---
-title: "Revisione del Codice Deontologico degli Psicologi Italiani: Dubbi e Controversie sull'Impatto che avrà sulla Libertà dei Pazienti"
-pubDate: "2023-09-26"
+title: "Revisione del Codice Deontologico degli Psicologi Italiani"
+pubDate: "2023-09-27"
 slug: "revisione-del-codice-deontologico-degli-psicologi-italiani"
 description: "Revisione del Codice Deontologico degli Psicologi Italiani: Dubbi e Controversie sull'Impatto che avrà sulla Libertà dei Pazienti."
 hero: "/images/psicologi.jpg"
 tags: []
 layout: "../../layouts/BlogPostLayout.astro"
 ---
+
+## Dubbi e Controversie sull'Impatto che avrà sulla Libertà dei Pazienti
 
 Il mondo della psicologia italiana è attualmente frammentato per via di un referendum volto a revisionare il Codice deontologico degli psicologi italiani.
 La revisione, accettata il 25 settembre con 9.034 sì e 7.617 persone contrarie, ha portato alla luce a diverse controversie e dubbi.
