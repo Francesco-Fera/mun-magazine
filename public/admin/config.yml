@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: Francesco-Fera/mun-magazine
+  name: git-gateway
   branch: master
   squash_merges: true
   open_authoring: true
