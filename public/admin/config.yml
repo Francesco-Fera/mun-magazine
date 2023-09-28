@@ -14,19 +14,18 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "../../layouts/BlogPostLayout.astro",
-        }
       - { label: "Titolo", name: "title", widget: "string" }
-      - { label: "Autore", name: "author", widget: "string" }
       - {
           label: "Data di Pubblicazione",
           name: "pubDate",
           widget: "datetime",
           date_format: "YYYY-MM-DD",
+        }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "../../layouts/BlogPostLayout.astro",
         }
       - { label: "Descrizione", name: "description", widget: "string" }
       - { label: "Immagine Principale", name: "hero", widget: "image" }
@@ -36,4 +35,5 @@ collections:
           widget: "select",
           options: ["Cultura", "Scienza", "Politica", "Africa"],
         }
+      - { label: "Autore", name: "author", widget: "string" }
       - { label: "Corpo", name: "body", widget: "markdown" }
