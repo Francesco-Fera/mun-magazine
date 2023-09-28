@@ -1,12 +1,14 @@
 backend:
   name: github
   repo: Francesco-Fera/mun-magazine
-  # branch: master # Branch to update (optional; defaults to master)
+  branch: master
+  squash_merges: true
+  open_authoring: true
 
 publish_mode: editorial_workflow
-
-media_folder: "public/images" # Media files will be stored in the repo under static/images/uploads
-public_folder: "public/images" # The src attribute for uploaded media will begin with
+media_folder: public/images
+public_folder: /images
+site_url: "https://munmagazine.com/" # your site name
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
