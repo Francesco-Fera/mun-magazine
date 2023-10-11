@@ -168,7 +168,7 @@ Il 19 giugno, le forze israeliane fanno irruzione a Jenin, dispiegando elicotter
 
 Il giorno successivo, due militanti di Hamas aprono il fuoco in un ristorante in un insediamento israeliano, uccidendo quattro israeliani.
 
-*Centinaia di coloni israeliani irrompono poi nei villaggi palestinesi, incendiando case e automobili e sparando ai residenti, secondo i funzionari locali. Israele compie anche il suo primo attacco con drone in Cisgiordania dal 2006, uccidendo tre presunti palestfinesi.*
+*Centinaia di coloni israeliani irrompono poi nei villaggi palestinesi, incendiando case e automobili e sparando ai residenti, secondo i funzionari locali. Israele compie anche il suo primo attacco con drone in Cisgiordania dal 2006, uccidendo tre presunti palestinesi.*
 
 A luglio, Israele lancia un attacco aereo e terrestre con 1.000 soldati sostenuti da attacchi di droni contro un campo profughi dentro Jenin, uccidendo 12 persone. 
 
