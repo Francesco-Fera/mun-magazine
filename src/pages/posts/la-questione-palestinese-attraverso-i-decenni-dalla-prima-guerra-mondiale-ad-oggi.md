@@ -38,11 +38,11 @@ Dopo la Seconda Guerra Mondiale, avvicinandosi alla fine del Mandato britannico 
 
 Israele guadagna però il controllo di una porzione ancora più grande di territorio, escludendo le aree della Cisgiordania e della Striscia di Gaza.
 
-**Circa 700.000 palestinesi abbandonarono città e villaggi, o ne furono espu**l Na**lsi, e, successivamente, si videro rifiutare ogni loro diritto al ritorno nelle proprie terre, sia durante sia al termine del conflitto; un atto di pulizia etnica da parte dei coloni.**
+**Circa 700.000 palestinesi abbandonarono città e villaggi, o *ne furono espulsi*, e, successivamente, si videro rifiutare ogni loro diritto al ritorno nelle proprie terre, sia durante sia al termine del conflitto; un atto di pulizia etnica da parte dei coloni.**
 
 ## Luglio 1956: La Crisi di Suez
 
-Il presidente egiziano Gamal Abdesser nazionalizza il Canale di Suez, una vitale via di commercio che collega il Mar Rosso e il Mar Mediterraneo. Israele invade l'Egitto, seguita dalle forze britanniche e francesi. 
+Il presidente egiziano Abdel Nasser nazionalizza il Canale di Suez, una vitale via di commercio che collega il Mar Rosso e il Mar Mediterraneo. Israele invade l'Egitto, seguita dalle forze britanniche e francesi. 
 
 Un accordo di pace, sostenuto dagli Stati Uniti e dall'Unione Sovietica, pone fine ai combattimenti. 
 
