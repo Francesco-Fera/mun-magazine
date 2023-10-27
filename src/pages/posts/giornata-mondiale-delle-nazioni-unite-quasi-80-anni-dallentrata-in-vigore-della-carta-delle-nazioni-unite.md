@@ -1,6 +1,7 @@
 ---
-title: "Giornata mondiale delle Nazioni Unite: Quasi 80 anni dall'entrata in
-  Vigore della Carta delle Nazioni Unite"
+title: Giornata Mondiale delle Nazioni Unite Guterres Ricorda che l’Attacco di
+  Hamas Non Arriva dal Nulla, in Risposta Tel Aviv chiede le dimissioni al
+  Segretario Generale dell'ONU
 pubDate: 2023-10-25T14:09:09.094Z
 layout: ../../layouts/BlogPostLayout.astro
 description: "Giornata mondiale delle Nazioni Unite: Quasi 80 anni dall'entrata
