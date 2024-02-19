@@ -9,6 +9,8 @@ hero: /images/nyt-mun.jpg
 tags: Politica
 author: Ariman Scriba
 ---
+*di Dalia Ismail*
+
 Il New York Times, il 2 febbraio, ha pubblicato un articolo intitolato "Understanding the Middle East Through the Animal Kingdom", ovvero "Comprendere il Medio Oriente attraverso il regno animale", scritto dal noto giornalista, commentatore, autore ed editorialista Thomas Friedman.
 
 Questo articolo ha sconvolto il mondo arabo e musulmano, nonostante questo sia abituato da decenni agli articoli occidentali intrisi di pregiudizi, semplificazioni ed opinioni superficiali sulla regione, come anche alle giustificazioni dei crimini di guerra statunitensi ed israeliani. In particolar modo, sono conosciute le dichiarazioni di Friedman, noto sostenitore delle invasioni dell'Afghanistan e dell'Iraq,  verso cui portò avanti una martellante propaganda, facendo pubblicamente numerose affermazioni razziste e deumanizzanti.
