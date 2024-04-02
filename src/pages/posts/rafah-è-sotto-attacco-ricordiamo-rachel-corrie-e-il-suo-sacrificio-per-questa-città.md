@@ -9,6 +9,8 @@ hero: /images/rachel-corrie.jpg
 tags: Politica
 author: Ariman Scriba
 ---
+*di Dalia Ismail*
+
 In questi mesi, in cui Israele è sempre [più intenzionato](https://www.theguardian.com/world/2024/mar/07/israel-resist-pressure-halt-rafah-attack-netanyahu) ad invadere Rafah, come se non gli bastasse [continuare](https://www.aljazeera.com/news/liveblog/2024/3/27/israels-war-on-gaza-live-rafah-bombing-intensifies-despite-un-truce-call) a bombardarla intensamente, nonostante la risoluzione ONU che [chiede](https://tg24.sky.it/mondo/2024/03/25/risoluzione-onu-gaza-cessate-fuoco) l'immediato cessate il fuoco per il mese di Ramadan, dobbiamo ricordare Rachel Corrie, un'attivista statunitense, che ha sacrificato la sua vita mentre difendeva coraggiosamente le case dei residenti di Rafah dalla distruzione perpetrata dall'esercito israeliano. Il suo coraggio e la sua dedizione alla causa dei diritti umani hanno lasciato un'impronta indelebile nella storia della Palestina e del mondo.
 
 *"Oggi non c'è città sulla Terra più densa di miseria e di inquietudine di Rafah, che si spinge verso il confine di Gaza con l'Egitto"*, [scrive](https://jacobin.com/2024/03/rachel-corrie-death-anniversary-rafah-gaza-idf) Tom Dale, su Jacobin.
