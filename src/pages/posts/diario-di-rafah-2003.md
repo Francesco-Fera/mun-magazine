@@ -16,6 +16,8 @@ author: Stefan Villkatt
 
 *Traduzione dallo svedese: Viviana Squellerio*
 
+**Sommario**: Il 7 Ottobre è iniziata l’offensiva israeliana a Gaza. Sono passati 20 anni da quando Stefan Villkatt vi si recò come attivista per la pace, grazie all’organizzazione International Solidarity Movement. Quando le bombe hanno iniziato a piovere sui luoghi che aveva aiutato a proteggere e sulle persone con cui aveva condiviso una parte di vita, ha messo per iscritto sui social la sua esperienza.
+
 ### Rafah 1
 
 Quando lavoravo come attivista per la pace in Palestina, non riuscivo ad accontentarmi del lavoro che stavamo svolgendo in Cisgiordania. Parlavamo ai soldati israeliani di calcio per cercare di ingraziarceli, così da convincerli a velocizzare i controlli ai dannati checkpoint; almeno per le mamme, sedute in attesa sotto il sole cocente per interminabili ore, prima di poter rientrare a casa dai loro bambini.
