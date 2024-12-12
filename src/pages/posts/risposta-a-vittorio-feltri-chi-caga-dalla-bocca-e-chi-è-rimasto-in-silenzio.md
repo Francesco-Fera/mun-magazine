@@ -7,6 +7,8 @@ hero: /images/articolo-feltri.jpg
 tags: Politica
 author: Wissal Houbabi
 ---
+*Illustrazione di Fiore*
+
 Se si potesse sintetizzare il dramma in cui ci troviamo, sicuramente nessuna analisi sociologica restituirebbe un esempio più emblematico e tragico dell’interscambio avvenuto durante la puntata de La Zanzara - 28 novembre 2024. 
 
 In una conversazione informale, provocatoria, schietta e raccapricciante, l’esponente di Fratelli d’Italia e consigliere regionale Vittorio Feltri ha delineato lo spaccato di mondo che detiene Potere conscio di meritarlo, bramarlo e agirlo: dal considerare le periferie luoghi inospitali, gli “extracomunitari” che “basterebbe vederli”, i musulmani come razza inferiore a cui sparerebbe in bocca, con fierezza maschile e patriarcale, tutto questo è avallato da un potere spropositato che permette a Feltri di poter dire tutto ciò che pensa con assoluta libertà e senso di onnipotenza verso eventuali ripercussioni e conseguenze. 
