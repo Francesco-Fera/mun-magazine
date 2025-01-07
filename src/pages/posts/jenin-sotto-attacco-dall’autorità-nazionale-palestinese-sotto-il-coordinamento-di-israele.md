@@ -17,7 +17,8 @@ Nella Cisgiordania occupata, l’ANP reprime violentemente proteste e dissenso. 
 
 ![](/images/mun_070125.webp)
 
-<small>This is small text</small>
+<small>Palestinian Authority President Mahmoud Abbas meets with US Secretary of State Antony Blinken in Amman, Jordan, October 17, 2023. (AP Photo/ Jacquelyn Martin, Pool)
+</small>
 
 In seguito agli attacchi israeliani, l’ANP sta cercando di reinserirsi nella governance di Gaza. Questo approccio richiama la strategia adottata dopo la Seconda Intifada, quando capitalizzò sul sostegno internazionale per la ricostruzione, introducendo riforme per compiacere i donatori ma trascurando le cause fondamentali dell’oppressione palestinese: apartheid, colonizzazione e mancanza di sovranità. La recente nomina di Mohammad Mustafa a primo ministro, presentata come un segnale di rinnovamento, appare più un tentativo di rassicurare i partner internazionali che un passo concreto verso la liberazione palestinese.
 
@@ -27,6 +28,8 @@ Per guadagnare rilevanza, l'ANP ha creato un Comitato di sostegno alla comunità
 
 ![](/images/mun_070125-2-.avif)
 
+<small>Mohammad Dalan, image credits WSJ</small>
+
 Tuttavia, l’ANP fatica a ottenere ducia tra i palestinesi, dipendendo dal supporto internazionale e dal coordinamento con Israele. La distruzione di Gaza raorza la sua posizione negoziale contro Hamas, che cerca di preservare l'autonomia della resistenza e mitigare il danno per la popolazione. In questo contesto, le divisioni politiche si aggravano ulteriormente e il futuro della leadership palestinese rimane incerto.
 
 Nel mentre, la tensione nella Cisgiordania occupata continua a crescere a causa della repressione esercitata dalle forze dell'Autorità Nazionale Palestinese contro i più giovani e i combattenti della resistenza che si oppongono all'occupazione israeliana. Due settimane fa, un agente di sicurezza dell'ANP ha abbandonato il suo incarico in seguito all'uccisione, da parte delle forze di sicurezza, di un giovane palestinese, Rabhi Shalabi, a Jenin. Shalabi rappresenta l'undicesima vittima palestinese uccisa dai proiettili delle forze dell'ANP dal 7 ottobre 2023. 
@@ -34,6 +37,8 @@ Nel mentre, la tensione nella Cisgiordania occupata continua a crescere a causa 
 La scorsa settimana, violenti scontri hanno coinvolto i combattenti della resistenza e le forze dell'ANP a Jenin, dove i resistenti hanno conscato diversi veicoli dell'ANP dopo essere stati inseguiti. Le forze dell'ANP hanno rapito un combattente della resistenza dal campo profughi di Jenin e smantellato ordigni esplosivi destinati a colpire le truppe israeliane, che eettuano regolarmente raid violenti nel campo.
 
 ![](/images/mun_070125-3-.webp)
+
+<small>Palestinian security forces mount a major raid against militants in the Jenin refugee camp in the Israeli-occupied West Bank, Monday, Dec. 16, 2024. (APPhoto/Majdi Mohammed)</small>
 
 Il 14 dicembre, le forze dell'ANP hanno condotto un'operazione nel campo profughi di Jenin, uccidendo Yazid Ja'ayseh, un comandante della Brigata di Jenin aliata alle Brigate Al-quds della Jihad Islamica Palestinese. Secondo il portavoce dell'ANP, generale di brigata Anwar Rajab, l'operazione, coordinata con l'esercito israeliano, mirava a *"preservare la sicurezza e la pace civile, stabilire lo stato di diritto e porre ne a conitti e caos"*. Rajab ha inoltre dichiarato che l'obiettivo delle autorità di Ramallah e Tel Aviv è *"ristabilire il controllo sul campo di Jenin per proteggere i cittadini da criminali e ripristinare i servizi pubblici in sicurezza"*. 
 
@@ -47,6 +52,8 @@ Nel frattempo, il governo israeliano prosegue con i piani di annessione de facto
 
 ![](/images/mun_070125-4-.webp)
 
+<small>officers from the Palestinian Authority clutch their guns as Palestinian security forces mount a major raid against militants in the Jenin refugee camp in the Israeli-occupied West Bank, Monday, Dec. 16, 2024. (AP Photo/Majdi Mohammed)</small>
+
 Dopo le riserve espresse da alcuni funzionari della sicurezza sull'operazione, Abbas ha dichiarato che chiunque disobbedisca al suo ordine verrà licenziato. Inoltre, il presidente dell’ANP ha informato Washington e i consiglieri del presidente eletto Donald Trump sull’operazione. 
 
 L’ANP ha fornito a Fenzel un elenco dettagliato delle necessità delle sue forze, tra cui munizioni, caschi, giubbotti antiproiettile, radio, equipaggiamenti per la visione notturna, tute anti-esplosivo e veicoli blindati. Secondo un funzionario palestinese, la Brigata Jenin riceve supporto dall’Iran ed è meglio equipaggiata rispetto alle forze dell’ANP. Gli israeliani avevano inizialmente approvato la spedizione di aiuti militari lo scorso anno, ma il governo israeliano ha congelato la decisione dopo l’attacco di Hamas del 7 ottobre. Nel frattempo, gli Stati Uniti hanno chiesto a Israele di scongelare le entrate scali dell’ANP per garantire il pagamento degli stipendi dei funzionari della sicurezza. 
@@ -57,11 +64,16 @@ Nel frattempo, l’ANP ha inviato ingenti rinforzi al campo di Jenin, dando avvi
 
 ![](/images/mun_070125-5-.jpg)
 
+<small>A member of the Palestinian Authority's security forces res tear gas towards a protest against its security operation in Jenin. Jaafar Ashtiyeh/AFP/Getty Images
+</small>
+
 Il 19 dicembre, diversi palestinesi sono stati uccisi nella Cisgiordania occupata in una serie di attacchi israeliani e operazioni dell’Autorità Nazionale Palestinese. A Tulkarem, un attacco aereo con droni israeliani ha provocato la morte di quattro palestinesi, mentre nel campo profughi di Balata a nord di Nablus, le forze israeliane hanno ucciso almeno due persone, tra cui una donna di 80 anni, e ferito altre con proiettili. Le forze speciali israeliane hanno preso d’assalto il campo con rinforzi e veicoli blindati, come riportato dall’agenzia WAFA. 
 
 Nel frattempo, violenti scontri sono scoppiati tra le fazioni della resistenza palestinese e le forze israeliane in diverse aree, tra cui Balata, Tulkarem e Beer al-Basha, a sud di Jenin. La Brigata Tulkarem, aliata alle Brigate Quds del movimento della Jihad Islamica Palestinese, ha dichiarato di aver initto perdite alle forze israeliane, utilizzando rache di proiettili e dispositivi esplosivi.
 
 ![](/images/mun_070125-6-.webp)
+
+<small>- People hold Palestinian ags during a demonstration against the shooting between the authority's security forces and militants in Jenin camp. Raneen Sawafta/Reuters</small>
 
 Un agente di sicurezza dell'ANP è stato ucciso il 22 dicembre. La Brigata Jenin delle Brigate Quds della Jihad Islamica Palestinese ha annunciato di aver initto perdite sia all'ANP che alle forze israeliane, utilizzando esplosivi e attacchi mirati contro soldati e veicoli militari. 
 
