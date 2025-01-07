@@ -1,6 +1,6 @@
 ---
-title: Jenin sotto attacco dall’Autorità Nazionale Palestinese sotto il
-  coordinamento di Israele
+title: Jenin sotto attacco dall'Autorità Nazionale Palestinese, in coordinamento
+  con l'entità sionista
 pubDate: 2025-01-07T16:43:51.736Z
 layout: ../../layouts/BlogPostLayout.astro
 description: Jenin sotto attacco dall’Autorità Nazionale Palestinese sotto il
