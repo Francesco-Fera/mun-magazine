@@ -16,6 +16,7 @@ Un sondaggio del 2023 del Palestinian Center for Policy and Survey Research ha r
 Nella Cisgiordania occupata, l’ANP reprime violentemente proteste e dissenso. Durante il genocidio israeliano a Gaza, la sua repressione è aumentata: secondo il Comitato per i prigionieri politici, l'ANP aveva ucciso cinque palestinesi e arrestato decine entro il 2023. Recentemente, ha lanciato un’operazione di controinsurrezione a Jenin, ucialmente per ripristinare legge e ordine, ma percepita come raorzamento del controllo israeliano. Questa politica riette una lunga storia di opportunismo, come dimostrato dal trattamento di Gaza dal 2007, quando Hamas prese il controllo della Striscia. L’ANP ha tagliato stipendi, negato servizi essenziali e imposto misure punitive, aumentando la soerenza della popolazione.
 
 ![](/images/mun_070125.webp)
+
 <small>This is small text</small>
 
 In seguito agli attacchi israeliani, l’ANP sta cercando di reinserirsi nella governance di Gaza. Questo approccio richiama la strategia adottata dopo la Seconda Intifada, quando capitalizzò sul sostegno internazionale per la ricostruzione, introducendo riforme per compiacere i donatori ma trascurando le cause fondamentali dell’oppressione palestinese: apartheid, colonizzazione e mancanza di sovranità. La recente nomina di Mohammad Mustafa a primo ministro, presentata come un segnale di rinnovamento, appare più un tentativo di rassicurare i partner internazionali che un passo concreto verso la liberazione palestinese.
